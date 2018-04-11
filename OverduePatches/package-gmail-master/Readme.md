@@ -3,7 +3,7 @@
 [Gmail](https://www.google.com/gmail/) is a free, Web-based e-mail service provided by Google.
 ### Why would you use a Ballerina connector for Gmail
 
-Ballerina GMail connector allows you to access the [Gmail REST API](https://developers.google.com/gmail/api/v1/reference/) and perform actions like creating and sending a simple text mail, mail
+Ballerina GMail connector allows you to access the [Gmail REST API](https://developers.google.com/gmail/api/v1/reference/) and perfom actions like creating and sending a simple text mail, mail
 with html content and inline images, mail with attachments, search and get mail etc.
 
 Following are the gmail api methods supported by the current version

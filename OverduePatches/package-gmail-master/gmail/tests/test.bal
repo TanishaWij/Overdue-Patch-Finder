@@ -30,7 +30,6 @@ string refreshTokenPath = setConfParams(config:getAsString("REFRESH_TOKEN_PATH")
 
 endpoint Client gMailEP {
     oAuth2ClientConfig:{
-        accessToken:accessToken,
         baseUrl:url,
         clientId:clientId,
         clientSecret:clientSecret,
@@ -42,11 +41,11 @@ endpoint Client gMailEP {
 };
 
 //Needs to be filled by tester
-string recipient = ""; //Example: "recipient@gmail.com"
-string sender = ""; //Example: "sender@gmail.com"
+string recipient = "tanishakiara@gmail.com"; //Example: "recipient@gmail.com"
+string sender = "tanisha@wso2.com"; //Example: "sender@gmail.com"
 string cc = ""; //Example: "cc@gmail.com"
 string attachmentPath = ""; //Example: "/home/user/hello.txt"
-string attachmentContentType = ""; //Example: "text/plain"
+string attachmentContentType = "text"; //Example: "text/plain"
 string inlineImagePath = ""; //Example: "/home/user/Picture2.jpg"
 string inlineImageName = ""; //Example: "Picture2.jpg"
 string imageContentType = ""; //Example: "image/jpeg"
