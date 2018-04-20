@@ -24,37 +24,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverduePatches.bal" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OverduePatches.bal" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OverduePatches.bal">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.bal" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/tests/test.bal">
+      <file leaf-file-name="Ballerina.toml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ballerina.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4665">
-              <caret line="323" column="52" lean-forward="true" selection-start-line="323" selection-start-column="52" selection-end-line="323" selection-end-column="52" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-line="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OverduePatches.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OverduePatches.conf">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="ballerina.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-gmail-master/ballerina.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gmail_util_functions.bal" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/gmail_util_functions.bal">
+      <file leaf-file-name="test.bal" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/tests/test.bal">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5421" />
+            <state relative-caret-position="135">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gmail_types.bal" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/gmail_types.bal">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-495" />
           </provider>
         </entry>
       </file>
@@ -95,10 +109,12 @@
         <option value="$PROJECT_DIR$/PatchNotification.bal" />
         <option value="$PROJECT_DIR$/package-gmail/Readme.md" />
         <option value="$PROJECT_DIR$/package-gmail/ballerina.conf" />
-        <option value="$PROJECT_DIR$/OverduePatches.bal" />
         <option value="$PROJECT_DIR$/package-gmail/gmail/tests/test.bal" />
         <option value="$PROJECT_DIR$/mailStudd" />
         <option value="$PROJECT_DIR$/package-gmail-master/ballerina.conf" />
+        <option value="$PROJECT_DIR$/package-gmail-master/gmail/tests/test.bal" />
+        <option value="$PROJECT_DIR$/OverduePatches.conf" />
+        <option value="$PROJECT_DIR$/OverduePatches.bal" />
       </list>
     </option>
   </component>
@@ -122,24 +138,6 @@
               <item name="OverduePatches" type="b2602c69:ProjectViewProjectNode" />
               <item name="OverduePatches" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OverduePatches" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OverduePatches" type="462c0819:PsiDirectoryNode" />
-              <item name="package-gmail-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OverduePatches" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OverduePatches" type="462c0819:PsiDirectoryNode" />
-              <item name="package-gmail-master" type="462c0819:PsiDirectoryNode" />
-              <item name="gmail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OverduePatches" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OverduePatches" type="462c0819:PsiDirectoryNode" />
-              <item name="package-gmail-master" type="462c0819:PsiDirectoryNode" />
-              <item name="gmail" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -151,7 +149,7 @@
     <property name="Empty file" value="Ballerina Main" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/tanisha/Documents/UdemyJava/HelloWorld/HelloWorld.bal" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -173,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ballerina.test.bal">
+  <component name="RunManager" selected="Ballerina.OverduePatches.bal">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -186,6 +184,7 @@
       <remoteDebuggingHost value="127.0.0.1" />
       <remoteDebuggingPort value="5005" />
       <kind value="MAIN" />
+      <package value="OverduePatches" />
     </configuration>
     <configuration name="PatchNotification.bal" type="BallerinaApplicationRunConfiguration" factoryName="Ballerina" temporary="true">
       <output_file path="$PROJECT_DIR$" />
@@ -207,11 +206,11 @@
       <remoteDebuggingPort value="5005" />
       <kind value="MAIN" />
     </configuration>
-    <configuration name="async.bal" type="BallerinaApplicationRunConfiguration" factoryName="Ballerina" temporary="true">
+    <configuration name="test.bal (1)" type="BallerinaApplicationRunConfiguration" factoryName="Ballerina" temporary="true">
       <output_file path="$PROJECT_DIR$" />
       <module name="HelloWorld" />
       <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/.idea/async.bal" />
+      <filePath value="$PROJECT_DIR$/package-gmail-master/gmail/tests/test.bal" />
       <myRunKind value="MAIN" />
       <remoteDebuggingHost value="127.0.0.1" />
       <remoteDebuggingPort value="5005" />
@@ -266,19 +265,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Ballerina.async.bal" />
       <item itemvalue="Ballerina.async.bal (1)" />
       <item itemvalue="Ballerina.PatchNotification.bal" />
       <item itemvalue="Ballerina.test.bal" />
       <item itemvalue="Ballerina.OverduePatches.bal" />
+      <item itemvalue="Ballerina.test.bal (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ballerina.test.bal" />
         <item itemvalue="Ballerina.OverduePatches.bal" />
+        <item itemvalue="Ballerina.test.bal (1)" />
+        <item itemvalue="Ballerina.test.bal" />
         <item itemvalue="Ballerina.PatchNotification.bal" />
         <item itemvalue="Ballerina.async.bal (1)" />
-        <item itemvalue="Ballerina.async.bal" />
       </list>
     </recent_temporary>
   </component>
@@ -296,22 +295,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-1091" width="1855" height="1092" extended-state="6" />
+    <frame x="66" y="-11" width="1855" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3190184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3190184" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11279007" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16297895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -470,25 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OverduePatches.bal">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/gmail_util_functions.bal">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5421" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-gmail-master/ballerina.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mailStudd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -496,10 +477,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/gmail_types.bal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/gmail_util_functions.bal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-gmail-master/ballerina.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package-gmail-master/gmail/tests/test.bal">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4665">
-          <caret line="323" column="52" lean-forward="true" selection-start-line="323" selection-start-column="52" selection-end-line="323" selection-end-column="52" />
+        <state relative-caret-position="135">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OverduePatches.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ballerina.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OverduePatches.bal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
